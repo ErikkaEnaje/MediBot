@@ -18,7 +18,7 @@ Link: https://medibotkm.pythonanywhere.com/
 - Contact Us Section
   ![image](https://github.com/user-attachments/assets/00d161f3-c482-4319-8a85-20401f292fc7)
 
-- How To Use A MediBot
+# How To Use A MediBot
   ![image](https://github.com/user-attachments/assets/af02a57a-4968-4118-aa39-dfeb39377181)
   ![image](https://github.com/user-attachments/assets/acdae835-8fd4-4a19-bcd8-b935768e3342)
   ![image](https://github.com/user-attachments/assets/3004f087-2f27-438b-a4ad-bbb5ba1a14f1)
@@ -27,7 +27,7 @@ Link: https://medibotkm.pythonanywhere.com/
   ![image](https://github.com/user-attachments/assets/c5076c95-e8e3-4198-8f94-eb4a36d8ded8)
   ![image](https://github.com/user-attachments/assets/70196f91-d9aa-4023-b75e-b2be80e0454c)
 
-- Collaborators
+# Collaborators
   Made By C.A.R.E
   1. Cesar Julius D. Jimenez | Front-end Developer | jimenezcesarjulius@gmail.com
   2. Angelo Gerard T. Mallari | Back-end Developer | angelomallari1123@gmail.com
