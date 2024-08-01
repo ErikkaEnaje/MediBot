@@ -29,6 +29,7 @@ Link: https://medibotkm.pythonanywhere.com/
 
 # Collaborators
   Made By C.A.R.E
+      Please feel free to email us if you have any further questions
   1. Cesar Julius D. Jimenez | Front-end Developer | jimenezcesarjulius@gmail.com
   2. Angelo Gerard T. Mallari | Back-end Developer | angelomallari1123@gmail.com
   3. Ronan D. Soriano | Project Manager | ronansoriano06@gmail.com
